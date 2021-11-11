@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-kaneriya" alt="dhruv-kaneriya" /></a> </p>
 
+<img align="right" alt="GIF" src="https://github.com/Dhruv-Kaneriya/Dhruv-Kaneriya/blob/main/coding.gif?raw=true" width="408" height="318" />
+<br>
+
+<h4> Talking about Personal Stuffs:</h4>
+
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React**
