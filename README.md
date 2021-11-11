@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/Dhruv-Kaneriya/Dhruv-Kaneriya/blob/main/coding.gif?raw=true" width="408" height="318" />
 <br>
 
-<h4> Talking about Personal Stuffs:</h4>
+<h3 align="left"> Talking about Personal Stuffs:</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
