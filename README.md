@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Kaneriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;Always+learning+new+things&width=500&height=50&color=4a0094&center=true)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-kaneriya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-kaneriya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-kaneriya" alt="dhruv-kaneriya" /></a> </p>
